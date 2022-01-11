@@ -11,3 +11,5 @@ module.exports = (opts = {}) => {
     postcssPlugin: 'grouped'
   }
 }
+
+module.exports.postcss = true
