@@ -1,0 +1,8 @@
+{
+  "name": "postcss-group",
+  "version": "0.0.1",
+  "dependencies": {
+    "postcss-import": "14.0.2",
+    "postcss-mixins": "9.0.1"
+  }
+}
